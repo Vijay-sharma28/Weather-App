@@ -27,7 +27,7 @@ const Heading = () => {
 
 
   return (
-    <div className='w-100 lg:w-200 min-h-150 px-8 lg:px-20 py-10  rounded-2xl shadow-xl shadow-gray-600/50'>
+    <div className='w-80 lg:w-200 min-h-150 px-8 lg:px-20 py-10  rounded-2xl shadow-xl shadow-gray-600/50'>
 
       <h1 className='text-3xl font-semibold text-gray-800 text-center mb-10'>Weather App</h1>
 
